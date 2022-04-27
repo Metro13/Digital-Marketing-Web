@@ -1,0 +1,96 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+.wrapp{
+    background-image: url('../static/images/portfolio-image.png');
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+    
+}
+
+#course-img{
+    background-image: url('../static/images/banner-right-image.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+}
+.services-banner{
+    background-image: url('../static/images/social-image\ \(1\).jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+}
+#course{
+    background-image: url('../static/images/social-image\ \(8\).png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#contact-us{
+    background-image: url(../static/images/social-image\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+}
+@media (min-width:500px) {
+   
+}
+.styles, .welcome{
+    color: #05A4ED;
+    
+}
+.link{
+    background-color: #05A4ED;
+}
+body{
+    font-family: 'gilroylight';
+}
+h1 {
+    font-family: 'gilroyextrabold';
+}
+h3, p{
+    font-family: 'gilroylight';
+    font-weight: 300;
+}
+#navigation{
+    background-color: #FFFFFF;
+    
+}
+
+/*
+#hero-image{
+    background-image: url('../static/images/Hero.jpg');
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    opacity: 90%;
+}
+*/
+#hero-text{
+    height: 500px;
+    background-image: url('../static/images/baner-dec-left.png');
+    background-repeat: no-repeat;
+
+}
+#hero-right{
+    height: 500px;
+}
+#course-section{
+    height: 500px;
+}
+
+#link{
+    background-color: #00A1AC;
+}
+
+
